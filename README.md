@@ -25,7 +25,7 @@ Select the English UI patch and/or the ad removal patch, then patch an original 
 ## Patches
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.2.8](https://github.com/MohuttTT/yahoo-transit-patches/releases/tag/v1.2.8)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
+> **[v1.0.0](https://github.com/MohuttTT/yahoo-transit-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
 <summary>📦 Yahoo!乗換案内&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
